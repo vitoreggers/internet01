@@ -1,0 +1,18 @@
+header{
+    background-color: aqua; 
+    display: flex;
+    color: rgb(199, 72, 22);
+}
+p1{
+    color: blueviolet;
+    text-align: center;
+}
+h1{
+    color: brown;
+}
+p2{
+    color: blue;
+}
+body{
+    background-color: rgb(122, 117, 117);
+}
